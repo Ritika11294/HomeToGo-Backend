@@ -3,8 +3,6 @@ In this project we have tried to make a look alike clone of HomeToGo Website. Wi
 
 ## Technologies we used
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
   <li>JavaScript</li>
   <li>Nodejs</li>
   <li>Expressjs</li>
