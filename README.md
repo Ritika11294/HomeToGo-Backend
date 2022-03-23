@@ -29,7 +29,7 @@ All the data got stored in and called from Mongo Atlas cloud database.
 ## Blog and deploy link:
 
 
-Check the hosted website [here](home2go-frontend-api.vercel.app/) and read our blog [here](https://medium.com/@vibrantachintya/hometogo-website-construct-week-unit-4-c2cd404624a3).
+Check the hosted website [here](https://home2go-frontend-api.vercel.app/) and read our blog [here](https://medium.com/@vibrantachintya/hometogo-website-construct-week-unit-4-c2cd404624a3).
 
 See the screenshots of actual website below.
 
