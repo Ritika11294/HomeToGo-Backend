@@ -13,17 +13,17 @@ In this project we have tried to make a look alike clone of HomeToGo Website. Wi
 All the data got stored in and called from Mongo Atlas cloud database.
 
 ## Team Members and Contributors:
-<h2>Ritika Gupta</h2>
+<h3>Ritika Gupta</h3>
 <li>Github : https://github.com/Ritika11294</li>
-<h2>Deepak</h2>
+<h3>Deepak</h3>
 <li>Github : https://github.com/deepakdk0808</li>
-<h2>Achintya Gaumat</h2>
+<h3>Achintya Gaumat</h3>
 <li>Github : https://github.com/vibrantachintya</li>
-<h2>Ankit Kumar</h2>
+<h3>Ankit Kumar</h3>
 <li>Github : https://github.com/Ankitkumar-tech</li>
-<h2>Sugappa Kuruba</h2>
+<h3>Sugappa Kuruba</h3>
 <li>Github : https://github.com/sugappa55</li>
-<h2>Sachin kumar</h2>
+<h3>Sachin kumar</h3>
 <li>Github : https://github.com/sacheenShyama</li>
 
 ## Blog and deploy link:
