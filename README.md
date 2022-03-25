@@ -11,6 +11,21 @@ Any vacationer who finds your listing on HomeToGo may send an inquiry directly f
 
 When you receive an inquiry from someone who initially saw your home on HomeToGo, you should reply with a direct link to your listing on WNAV and explain that your WNAV listing has the latest and most accurate information.
 
+## Pages & Features :point_down:
+
+- `Home Page`: Tried best to clone the home page .
+- `Sign-Up Page`: User details validated directly from Backend.
+- `Sign-In Page`: User authentication to check whether user email and password match with details existing in the backend.
+- `Property Gallery`: Gallery created dynamically.
+- `Property Description`: Displays the details of property selected by the users.
+- `Checkout Page`: Users can add the delivery address.
+- `Payment Page`: debit and credit card payment option. Users can add their payment details.
+
+
+## How To Use ✅
+
+First you have to have to go to the signup page and create a new account. After the signup process is completed you have to login with the same details and then it will redirect you to the landing page. You can now go to the list your property page and there user can add the images of any property. After that it will redirect you to the property gallery page. If a user will click on the details it will redirect to the property description page and then after checking the availability of the selected property user will redirect to the checkout page after filling their personal details, it will proceed to the payment page there user can add their debit/credit card details to place the booking. 
+
 ## Technologies we used
 <ul>
   <li>JavaScript</li>
