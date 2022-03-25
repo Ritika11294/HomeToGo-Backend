@@ -26,6 +26,29 @@ When you receive an inquiry from someone who initially saw your home on HomeToGo
 
 First you have to have to go to the signup page and create a new account. After the signup process is completed you have to login with the same details and then it will redirect you to the landing page. You can now go to the list your property page and there user can add the images of any property. After that it will redirect you to the property gallery page. If a user will click on the details it will redirect to the property description page and then after checking the availability of the selected property user will redirect to the checkout page after filling their personal details, it will proceed to the payment page there user can add their debit/credit card details to place the booking. 
 
+## Run Locally
+
+**Install npm packages**
+
+<li> npm install </li> </br>
+
+**Run the server**
+
+<li> npm start </li>
+
+
+<h2> Libraries & Packages </h2> 
+
+<h4> NPM Packages </h4>
+
+
+<li> express </li>
+<li> mongoose </li>
+<li> jsonwebtoken </li>
+<li> bcryptjs </li>
+<li> cors </li>
+<li> dotenv </li>
+
 ## Technologies we used
 <ul>
   <li>JavaScript</li>
